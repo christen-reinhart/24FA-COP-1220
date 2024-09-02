@@ -1,10 +1,10 @@
-# !/usr/bin/env Program C
-# Script name: Programming C P2
-# Author Name: Christen Reinhart
-# Date of Latest Revision: 09/02/2024
-# Purpose: Print
-# Input: Video Games
-# Output: Print Video Games
+// !/usr/bin/env Program C
+// Script name: Programming C P2
+// Author Name: Christen Reinhart
+// Date of Latest Revision: 09/02/2024
+// Purpose: Print
+// Input: Video Games
+// Output: Print Video Games
 
 #include <stdio.h>
 
