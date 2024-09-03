@@ -9,12 +9,12 @@
 #include <stdio.h>
 
 int main() {
-    printf("Some of my favorite video games are:\n");
-    printf("1. The Legend of Zelda: Breath of the Wild\n");
+    printf("My favorite video games are:\n");
+    printf("1. Super Castlevania\n");
     printf("2. God of War\n");
-    printf("3. Red Dead Redemption 2\n");
-    printf("4. The Witcher 3: Wild Hunt\n");
-    printf("5. Halo: Infinite\n");
+    printf("3. Grandtheft Auto 4\n");
+    printf("4. Spiderman\n");
+    printf("5. Wipeout\n");
     
     return 0;
 }
