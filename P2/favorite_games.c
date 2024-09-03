@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("My favorite video games are:\n");
+    printf("My favorite video games:\n");
     printf("1. Super Castlevania\n");
     printf("2. God of War\n");
     printf("3. Grandtheft Auto 4\n");
