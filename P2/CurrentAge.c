@@ -1,10 +1,10 @@
 // !/usr/bin/env Program C
-// Script name: Programming C P2 Video Games
+// Script name: Programming C P2 Current Age
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 09/03/2024
 // Purpose: Print
-// Input: Video Games
-// Output: Print Video Games
+// Input: Dates
+// Output: Print Current Age
 
 #include <stdio.h>
 
