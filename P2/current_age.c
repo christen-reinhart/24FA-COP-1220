@@ -4,7 +4,7 @@
 // Date of Latest Revision: 09/03/2024
 // Purpose: Print
 // Input: Dates
-// Output: Print Current Age
+// Output: Print Future Age
 
 #include <stdio.h>
 
