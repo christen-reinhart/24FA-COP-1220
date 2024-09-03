@@ -9,8 +9,8 @@
 #include <stdio.h>
 
 int main() {
-    int currentAge = 25; // You can replace 25 with your current age
-    int futureYear = 2037;
+    int currentAge = 46; // This is my current age
+    int futureYear = 2070;
     int currentYear = 2024;
     int futureAge = currentAge + (futureYear - currentYear);
     
