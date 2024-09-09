@@ -9,16 +9,16 @@
 #include <stdio.h>
 
 int main() {
-    int ascii_code;  // Declare a variable to store the ASCII code
+    int ascii_code;  // variable for the ASCII code
 
-    // Prompt the user to enter an ASCII code value
+    // Prompt to enter an ASCII value
     printf("Enter ASCII value: ");
     scanf("%d", &ascii_code);
 
-    // Output the character that corresponds to the ASCII code
+    // character that corresponds to the ASCII code
     printf("The character corresponding to ASCII code %d is '%c'.\n", ascii_code, ascii_code);
 
-    // Test output for decimal 106 and 122
+    // output for decimal
     printf("ASCII code 106 goes with '%c'.\n", 106);
     printf("ASCII code 122 goes with '%c'.\n", 122);
 
