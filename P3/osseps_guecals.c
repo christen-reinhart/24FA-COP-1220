@@ -9,17 +9,17 @@
 #include <stdio.h>
 
 int main() {
-    // Declare variables
+    // variables
     float osseps, geucals;
 
-    // Prompt user for input
+    // user for input
     printf("Enter the weight in osseps: ");
     scanf("%f", &osseps);
 
-    // Conversion from osseps to geucals
+    // osseps to geucals
     geucals = osseps * 11.41;
 
-    // Display the result
+    // the results
     printf("%.2f osseps is equal to %.2f geucals.\n", osseps, geucals);
 
     return 0;
