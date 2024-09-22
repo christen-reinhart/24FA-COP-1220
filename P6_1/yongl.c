@@ -2,7 +2,7 @@
 // Script name: Programming C P6_1
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 09/28/2024
-// Purpose: 
+// Purpose: add two arguments then divide the sum by 2
 // Input: declared variables
 // Output: Sum divided by two
 
