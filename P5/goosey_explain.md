@@ -137,3 +137,15 @@
 
 // A comment indicating the end of the program. It's not necessary but helps make the code more readable.
 
+// Approach to Program Development:
+
+// Design: The goal of the program was to take a user-provided integer and multiply it by a predefined symbolic constant, 321. I started by outlining the structure, focusing on keeping it simple while incorporating key programming principles like using symbolic constants and modularity. I designed the program to have a single function, goosey(), responsible for performing the multiplication, with the main() function handling user input and invoking the goosey() function.
+
+
+// Coding: I declared the symbolic constant MULTIPLIER using the #define preprocessor directive to ensure that the value of 321 remained consistent throughout the program. For clarity and maintainability, I used a function (goosey()) to separate the multiplication logic from the main function. In the main() function, I used scanf to accept an integer input from the user, which is then passed to the goosey() function for processing. The result is printed within the goosey() function using formatted output for clarity.
+
+// Testing: I ran multiple tests using different integer values, including edge cases like zero and negative numbers, to ensure the program could handle a wide range of inputs. I also tested for proper handling of non-integer input to verify that the program didn’t crash, and I confirmed that the program could multiply both small and large numbers accurately.
+
+// Challenges: The primary challenge was ensuring that the program could handle user input smoothly, including edge cases. Initially, I faced some issues with unexpected results when users inputted non-integer values. I overcame this by ensuring that the scanf() function was correctly reading the input and by adding basic input validation to make the program more robust.
+
+// Additionally, ensuring proper formatting of the output was important for readability, which was addressed by using formatted strings in the printf() function.
