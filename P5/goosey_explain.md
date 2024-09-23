@@ -76,3 +76,13 @@
 // A comment indicating the end of the program. It's not necessary but helps make the code more readable.
 
 // Moneywise. “'Who Dreams This Crap Up?': Kevin O'Leary Just Slammed a New Regulation That Allows Employees to Ignore Their Bosses After Hours — Says He’ll Fire Workers Who Put Their Phones on Silent.” Moneywise, 13 Sept. 2023, https://moneywise.com/a/ch-aol/o-leary-slams-right-to-disconnect-laws_1727088613978?utm_source=syn_msna_mon&utm_medium=Z&utm_campaign=67410&utm_content=msna_mon_67410. Accessed 23 Sept. 2024.
+
+
+
+// Hari, Amanda. "Bill Proposed by Assemblymember Matt Haney Would Give California Workers the 'Right to Disconnect.'" CBS News, 4 Apr. 2024, www.cbsnews.com/sanfrancisco/news/bill-proposed-by-assemblymember-matt-haney-would-give-california-workers-the-right-to-disconnect/.
+
+// AB 2751 - Right to Disconnect. Digital Democracy, www.digitaldemocracy.calmatters.org/bills/ca_202320240ab2751.
+
+// Allbee, Nate. "California Introduces Bill to Give Workers the Right to Disconnect from Non-Emergency Business Calls and Texts After Hours." Assemblymember Matt Haney's Office, 1 Apr. 2024, www.a17.asmdc.org/press-releases/20240401-california-introduces-bill-give-workers-right-disconnect-non-emergency.
+
+// Marr, Chris. "‘Right to Disconnect’ Plan in California Hits Employer Backlash." Bloomberg Law, 3 Apr. 2024, www.news.bloomberglaw.com/daily-labor-report/right-to-disconnect-plan-in-california-hits-employer-backlash.
