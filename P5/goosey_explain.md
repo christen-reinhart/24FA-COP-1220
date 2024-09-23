@@ -74,3 +74,5 @@
 //Copy code
 // end
 //A comment indicating the end of the program. It's not necessary but helps make the code more readable.
+
+Moneywise. “'Who Dreams This Crap Up?': Kevin O'Leary Just Slammed a New Regulation That Allows Employees to Ignore Their Bosses After Hours — Says He’ll Fire Workers Who Put Their Phones on Silent.” Moneywise, 13 Sept. 2023, https://moneywise.com/a/ch-aol/o-leary-slams-right-to-disconnect-laws_1727088613978?utm_source=syn_msna_mon&utm_medium=Z&utm_campaign=67410&utm_content=msna_mon_67410. Accessed 23 Sept. 2024.
