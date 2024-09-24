@@ -1,16 +1,13 @@
 
-//!/usr/bin/env Program C
+# !/usr/bin/env Program C
+# Script name: Programming C P5
+# Author Name: Christen Reinhart
+# Date of Latest Revision: 09/21/2024
+# Purpose: multiplication
+# Input: type int value
+# 1b. How did you approach the development of the program in part a? Explain how you designed, coded, and tested the program. What challenges did you have and how did you overcome those challenges? Which code from the textbook did you reference as you developed this one? (be specific) (20 points)
 
-//Script name: Programming C P5
-//Author Name: Christen Reinhart
-//Date of Latest Revision: 09/21/2024
-//Purpose: multiplication
-//Input: type int value
-//Output: 321 Multiplied
-
-// 1b. How did you approach the development of the program in part a? Explain how you designed, coded, and tested the program. What challenges did you have and how did you overcome those challenges? Which code from the textbook did you reference as you developed this one? (be specific) (20 points)
-
-// The main purpose of this program is to take a user provided integer input (Number). We then take the number provided by the user and multiply it by 321 the predefined symbolic constant. The program has a single function goosey()which performs multiplication. The main() function handles user input then invokes goosey(). I declared MULTIPLIER using #define to make sure the value 321 stayed the same throughout the program. Separating the multiplication part from the main function was performed by goosey(). The main() function uses scanf() to input a integer from the user and then passes it to the goosey() function to be processed.
+The main purpose of this program is to take a user provided integer input (Number). We then take the number provided by the user and multiply it by 321 the predefined symbolic constant. The program has a single function goosey()which performs multiplication. The main() function handles user input then invokes goosey(). I declared MULTIPLIER using #define to make sure the value 321 stayed the same throughout the program. Separating the multiplication part from the main function was performed by goosey(). The main() function uses scanf() to input a integer from the user and then passes it to the goosey() function to be processed.
 
 
 #include <stdio.h> -   Tells the compiler to include the standard input-output library and provides functions like scanf() and printf() that can be used for output and input.
@@ -43,4 +40,5 @@ void goosey(int num) { - The integer argument num does not return something sinc
     printf("The result of %d multiplied by %d is: %d\n", num, MULTIPLIER, result); - Prints the result of the multiplication to the console.
 } – This closes the goosey() function and indicates the end.
 // end
+
 
