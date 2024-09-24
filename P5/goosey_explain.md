@@ -1,10 +1,10 @@
-// !/usr/bin/env Program C
-// Script name: Programming C P5
-// Author Name: Christen Reinhart
-// Date of Latest Revision: 09/21/2024
-// Purpose: multiplication
-// Input: type int value
-// Output: 321 Multiplied
+//!/usr/bin/env Program C
+//Script name: Programming C P5
+//Author Name: Christen Reinhart
+//Date of Latest Revision: 09/21/2024
+//Purpose: multiplication
+//Input: type int value
+//Output: 321 Multiplied
 
 // 1b. How did you approach the development of the program in part a? Explain how you designed, coded, and tested the program. What challenges did you have and how did you overcome those challenges? Which code from the textbook did you reference as you developed this one? (be specific) (20 points)
 
