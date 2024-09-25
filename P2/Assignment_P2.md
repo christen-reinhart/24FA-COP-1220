@@ -8,6 +8,17 @@
 
 # start
 
+Christen Reinhart 
+Professor Cameron Spears
+24/FA COP-1220-93444 Programming in C  
+P6
+20241008
+
+1a.  Design, code, and test a program that includes a function of type double called yongl that accepts two double arguments (you must write the yongl function). When called, your function will add the two arguments then divide the sum by 2. It will then return that result. Your main function should call yongl then display the value returned by the function. Test your function thoroughly then submit output using the arguments 16.1 and 1.16. Remember that a structured function must have have only one return statement.  Your program must be structured, commented, professional in appearance, and use only symbolic constants as necessary. (80 points)
+
+https://github.com/christen-reinhart/24FA-COP-1220/blob/main/P6_1/yongl.c
+
+
 // !/usr/bin/env Program C
 // Script name: Programming C P6_1
 // Author Name: Christen Reinhart
