@@ -22,3 +22,4 @@ For my second speech, I will be discussing the introduction of “right to disco
 Jing, Pan. “'Who Dreams This Crap Up?': Kevin O'Leary Just Slammed a New Regulation That Allows Employees to Ignore Their Bosses After Hours — Says He’ll Fire Workers Who Put Their Phones on Silent.” Moneywise, 2023, https://moneywise.com/a/ch-aol/o-leary-slams-right-to-disconnect-laws_1727088613978?utm_source=syn_msna_mon&utm_medium=Z&utm_campaign=67410&utm_content=msna_mon_67410. Accessed 23 Sept. 2024.
 
 
+“This kind of stuff just makes me crazy. It’s so dumb. Who dreams this crap up is my question. And why would anybody propose such a stupid idea?”
