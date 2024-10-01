@@ -1,10 +1,10 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C P6_1
+// Script name: Programming C P7
 // Author Name: Christen Reinhart
-// Date of Latest Revision: 09/28/2024
-// Purpose: add two arguments then divide the sum by 2
-// Input: declared variables
-// Output: Sum divided by two
+// Date of Latest Revision: 10/14/2024
+// Purpose: Report odd & averager integer value
+// Input: integers until value 1212
+// Output: Report total number of integers
 
 #include <stdio.h>
 
