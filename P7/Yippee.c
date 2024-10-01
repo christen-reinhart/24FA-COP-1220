@@ -1,5 +1,5 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C P7
+// Script name: Programming C P7 Yippee
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 10/14/2024
 // Purpose: Report odd & averager integer value
