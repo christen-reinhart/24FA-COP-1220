@@ -6,11 +6,18 @@
 # Input: Video Games
 # Output: Print Video Games
 
-My initial reaction to Between the World and Me is one of profound contemplation and a deep sense of sadness. Ta-Nehisi Coates’ raw exploration of race, violence, and the vulnerability of Black bodies in America evokes a visceral emotional response. The work’s personal reflections are not only heartbreaking but also illuminating in their clarity and honesty. Coates examines the harsh reality of being Black in America, weaving his own experiences with historical and contemporary examples of systemic racism and violence.
+Christen Reinhart
+Professor Joshua Corson
+24/FA-ENC-1101-93732 
+Between the World and Me
+20240903
 
-A specific passage that struck me as especially significant comes from the excerpt where Coates writes, "You understand that there is no real distance between you and Trayvon Martin, and thus Trayvon Martin must terrify you in a way that he could never terrify me." This line encapsulates the persistent and inescapable fear that accompanies Black existence in America. Despite progress and aspirations, Coates acknowledges that the lives of young Black men today remain precarious, much like his own childhood. Trayvon Martin’s death becomes a symbol of the continuing threat that looms over Coates’ son, illustrating how this fear is passed from one generation to the next.
+Answer the following prompt in 150-250 words: What is your initial reaction to the work? Choose a specific passage that struck you as significant—or interesting, profound, amusing, illuminating, disturbing, sad, etc. What was memorable? Why? 
 
-What makes this passage so memorable is its powerful juxtaposition of hope and despair. Coates’ son has experienced a world of opportunities “above the tree-line,” yet the constant vulnerability to racial violence persists. This acknowledgment that no matter how far one rises, the body is never fully safe, strikes at the core of Coates’ message about the fragility of Black life in America. It is a chilling reminder that systemic racism isn’t just a part of history—it is a present, lived experience, and the pain of recognizing this truth is what makes the work resonate so deeply.
+The text is an excerpt from Ta-Nehisi Coates' Between the World and Me, a letter addressed to his son about the Black experience in America. Coates discusses themes of racism, violence, history, and democracy. He critiques the idealized narrative of American democracy, emphasizing the contradictions between its ideals and its historical realities.
+A particularly significant passage is "The answer to this question is the record of the believers themselves. The answer is American history." This sentence highlights the gap between the nation's democratic principles and its violent past. Coates argues that racism is an inherent part of American society, not an aberration. He also discusses the construction of race as a tool to justify inequality and exploitation, challenging the notion that race is a natural, inherent difference between people.
+Throughout the text, Coates reflects on the personal and societal impacts of racism, including police violence, generational trauma, and the constant fear faced by Black Americans. He emphasizes the fragility of Black life in America and the systemic injustices that continue to perpetuate racial inequality.
+
 
 
 
