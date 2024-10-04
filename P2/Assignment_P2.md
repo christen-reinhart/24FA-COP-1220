@@ -10,7 +10,7 @@ Christen Reinhart
 Professor Cameron Spears
 24/FA COP-1220-93444 Programming in C  
 T1
-20241008
+20241015
 
 Q1: Name at least three advantages of the C language.
 Efficiency: C is known for producing highly efficient code. 
