@@ -9,7 +9,7 @@
 Christen Reinhart
 Professor Joshua Corson
 24/FA-ENC-1101-93732 
-Social Issues Outline & Thesis Statement
+Social Issues & Fentanyl Introduction
 20241013
 
 Introduction:
