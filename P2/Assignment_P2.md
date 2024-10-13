@@ -9,7 +9,7 @@
 Christen Reinhart
 Professor Joshua Corson
 24/FA-ENC-1101-93732 
-Social Issues Annotated Bibliography
+Social Issues Outline & Thesis Statement
 20241013
 
 Thesis Statement:
