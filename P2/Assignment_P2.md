@@ -6,6 +6,14 @@
 # Input: Video Games
 # Output: Print Video Games
 
+Christen Reinhart
+Professor Joshua Corson
+24/FA-ENC-1101-93732 
+Social Issues Annotated Bibliography
+20241013
+
+
+
 An annotated bibliography is a great way to summarize and evaluate the sources you'll be using in your "Social Issues Letter." It usually consists of citations followed by a summary and analysis of each source. The summary should cover the main points, while the analysis should explain how the source supports your letter.
 
 Here’s a breakdown of how to create an annotated bibliography:
