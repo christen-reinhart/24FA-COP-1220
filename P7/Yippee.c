@@ -3,7 +3,7 @@
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 10/14/2024
 // Purpose: Report even/odd & averager number counter
-// Input: positive numbers until value 1212
+// Input: positive numbers until 1212
 // Output: Report total number of numbers
 
 #include <stdio.h>
