@@ -23,12 +23,12 @@ int main() {
         // read input number
         scanf("%d", &number);
 
-        // when number is 1212, exit loop
+        // when 1212 exit loop
         if (number == 1212) {
-            break;  // exit loop when 1212 entered
+            break;  // exit loop when 1212 
         }
 
-        // If the number is positive, process it
+        // when positive number process it
         if (number > 0) {
             // check for even number 
             if (number % 2 == 0) {
