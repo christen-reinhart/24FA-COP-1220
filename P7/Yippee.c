@@ -12,9 +12,9 @@ int main() {
     int number, evenCount = 0, oddCount = 0, evenSum = 0, oddSum = 0;
     float evenAvg = 0.0, oddAvg = 0.0;
 
-    // start counters for even and odd numbers
-    // start sums for even and odd numbers
-    // start averages for even and odd numbers
+    // start counter even and odd numbers
+    // start sums even and odd numbers
+    // start averages even and odd numbers
     
     printf("Enter positive integers (enter 1212 to stop):\n");
 
