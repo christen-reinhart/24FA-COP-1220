@@ -6,3 +6,4 @@
 # Input: Video Games
 # Output: Print Video Games
 
+Evaluation: This article carefully examines how Washington state is confronting the fentanyl crisis through a fusion of law enforcement, healthcare, and education initiatives. It will aid me in discussing the diverse responses needed to manage this crisis successfully.
