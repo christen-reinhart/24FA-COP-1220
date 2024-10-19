@@ -6,12 +6,34 @@
 # Input: Video Games
 # Output: Print Video Games
 
-1a. Design, code, and test a program that contains an array of ints. The size of the array should be the number of characters in your first and last name combined. For example, Maria Beasley (inventor of the life raft, 1880) would have an array of size 12 in her program. Use a named constant for the size of your array.
+1. Design:
 
-Use a loop to let the user enter values to fill the contents of the array. As the user is entering values, accumulate (total) each value. 
+I started by understanding the task: I needed an array whose size is the number of characters in "Christen Reinhart" (15 characters). I also had to allow the user to enter integer values, calculate the total and average, and display the results.
 
-Use a second loop to output the contents of the array, along with the total and average of the values in the array.
+I used a constant ARRAY_SIZE to define the array size.
 
-Be sure to use your named constant in the declaration of the array, as well as for the loop limit in both of your loops. (80 points)
+I planned two loops:
 
-1b. How did you approach the development of the program in part a? Explain how you designed, coded, and tested the program. What challenges did you have and how did you overcome those challenges? Which code from the textbook did you reference as you developed this one? (be specific) (20 points)
+One for getting user input and calculating the total.
+Another to display the array, total, and average.
+
+2. Coding:
+
+I defined an array with size 15.
+For input, I used a loop to get values from the user, making sure only integers were allowed.
+
+I accumulated the total as values were entered.
+After collecting the values, I calculated the average.
+Finally, I used another loop to print the array, total, and average.
+
+3. Testing:
+
+I tested by entering different numbers to check if the total and average were correct.
+
+I also tried entering invalid input (like letters) to make sure the program only accepted numbers.
+
+Challenges:
+
+Input Validation: Initially, the program accepted wrong inputs, but I fixed that by adding checks to ensure only integers could be entered.
+
+Formatting: I made sure the output looked clean and easy to read by using spaces and line breaks.
