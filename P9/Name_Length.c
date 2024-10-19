@@ -1,10 +1,10 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C P8 Counter.c
+// Script name: Programming C P9 Name_Length.c
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 10/14/2024
-// Purpose: Count various types of characters
-// Input: file.txt
-// Output: Total Characters
+// Purpose: test a program that contains an array of ints
+// Input: characters in 1st & last name
+// Output: contents of the array, along with the total and average
 
 #include <stdio.h>
 
