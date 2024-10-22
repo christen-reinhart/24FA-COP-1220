@@ -1,7 +1,7 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C P8 Counter.c
+// Script name: Programming C P8 CharacterCount.c
 // Author Name: Christen Reinhart
-// Date of Latest Revision: 10/14/2024
+// Date of Latest Revision: 10/22/2024
 // Purpose: Count various types of characters
 // Input: file.txt
 // Output: Total Characters
