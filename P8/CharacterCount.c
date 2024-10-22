@@ -13,26 +13,26 @@ int main() {
     int ch;
     int upper_count = 0, lower_count = 0, punct_count = 0;
 
-    // Prompt the user to enter text
+    // prompt user to enter text
     printf("Please enter text (press Ctrl+D to finish on Linux/macOS or Ctrl+Z on Windows):\n");
 
-    // Read characters from input until EOF
+    // read characters from input 
     while ((ch = getchar()) != EOF) {
-        // Check if the character is uppercase
+        // verify character is uppercase
         if (isupper(ch)) {
             upper_count++;
         }
-        // Check if the character is lowercase
+        // verify character is lowercase
         else if (islower(ch)) {
             lower_count++;
         }
-        // Check if the character is punctuation
+        // verify characters punctuation
         else if (ispunct(ch)) {
             punct_count++;
         }
     }
 
-    // Print the results
+    // print results
     printf("\nTotal Uppercase Characters: %d\n", upper_count);
     printf("Total Lowercase Characters: %d\n", lower_count);
     printf("Total Punctuation Characters: %d\n", punct_count);
