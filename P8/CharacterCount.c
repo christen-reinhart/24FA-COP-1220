@@ -14,7 +14,7 @@ int main() {
     int upper_count = 0, lower_count = 0, punct_count = 0;
 
     // prompt user to enter text
-    printf("Please enter text (press Ctrl+D to finish on Linux/macOS or Ctrl+Z on Windows):\n");
+    printf("enter text (press Ctrl+D to finish on Linux Ctrl+Z on Windows):\n");
 
     // read characters from input 
     while ((ch = getchar()) != EOF) {
@@ -33,8 +33,8 @@ int main() {
     }
 
     // print results
-    printf("\nTotal Uppercase Characters: %d\n", upper_count);
-    printf("Total Lowercase Characters: %d\n", lower_count);
+    printf("\nTotal Upper Characters: %d\n", upper_count);
+    printf("Total Lower Characters: %d\n", lower_count);
     printf("Total Punctuation Characters: %d\n", punct_count);
 
     return 0;
