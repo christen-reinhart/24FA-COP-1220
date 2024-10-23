@@ -4,7 +4,7 @@
 // Date of Latest Revision: 10/22/2024
 // Purpose: Count various types of characters
 // Input: file.txt
-// Output: Total Characters
+// Output: Character count by type
 
 #include <stdio.h>
 #include <ctype.h>
