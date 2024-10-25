@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 
-// define the named constant for the size of the array
+// define constant size of the array
 #define ARRAY_SIZE 15
 
 int main() {
