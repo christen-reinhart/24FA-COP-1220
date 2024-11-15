@@ -6,72 +6,21 @@
 # Input: Video Games
 # Output: Print Video Games
 
-1. Storing and Analyzing Test Scores
+C Arrays - Programiz
 
-a) Data Type Consistency: All test scores are of the same data type (e.g., integers or floats).
+programiz.com
 
-b) Indexed Access: Each student’s score can be accessed via an index, making it easy to loop through all scores.
+I found a C program that demonstrates the use of arrays to calculate the average of four integers. The program is available on Programiz: 
+PROGRAMIZ
 
-c) Efficient Iteration: Arrays allow looping through scores to calculate the total, maximum, minimum, or average efficiently.
+Program Overview: This program prompts the user to input four integers, stores them in an array, and then calculates and displays their average.
 
-Example:
+Array Definition in the Program:
 
-#define NUM_STUDENTS 30
+int num[4];
 
-int main() {
-    float scores[NUM_STUDENTS] = {85.5, 90.0, 78.0, /*...*/};
-    float sum = 0.0;
-    for (int i = 0; i < NUM_STUDENTS; i++) {
-        sum += scores[i];
-    }
-    printf("Average Score: %.2f\n", sum / NUM_STUDENTS);
-    return 0;
-}
+Purpose of the Array: The num array is defined to hold four integer values entered by the user. Each element of the array corresponds to one of the integers. By storing the integers in an array, the program can efficiently iterate through the elements to compute the sum and subsequently the average. This approach simplifies the process of handling multiple related variables and allows for scalable code that can be easily modified to accommodate more numbers if needed.
 
-2. Tracking Daily Temperatures for a Month
+Sources:
 
-a) Fixed Size: The number of days in a month is constant, making an array suitable.
-
-b) Sequential Storage: Temperatures are recorded in order, so an array is a natural choice.
-
-c) Easy Aggregation: Arrays make it easy to compute averages or find trends like the highest or lowest temperature of the month.
-
-Example:
-
-#define DAYS_IN_MONTH 30
-
-int main() {
-    int temperatures[DAYS_IN_MONTH] = {72, 74, 69, /*...*/};
-    int total = 0, max = temperatures[0], min = temperatures[0];
-
-    for (int i = 0; i < DAYS_IN_MONTH; i++) {
-        total += temperatures[i];
-        if (temperatures[i] > max) max = temperatures[i];
-        if (temperatures[i] < min) min = temperatures[i];
-    }
-    printf("Average: %d, Max: %d, Min: %d\n", total / DAYS_IN_MONTH, max, min);
-    return 0;
-}
-
-3. Managing a To-Do List of Fixed Size
-
-a) Fixed Limit: The maximum number of tasks is predefined.
-
-b) Random Access: Tasks can be accessed, updated, or deleted by their index.
-
-c) Compact Representation: Arrays provide a compact way to store tasks of similar types (e.g., strings for task names).
-
-Example:
-
-#include <stdio.h>
-#include <string.h>
-#define MAX_TASKS 10
-#define MAX_TASK_LENGTH 50
-
-int main() {
-    char tasks[MAX_TASKS][MAX_TASK_LENGTH] = {"Buy groceries", "Call John", /*...*/};
-    for (int i = 0; i < MAX_TASKS && strlen(tasks[i]) > 0; i++) {
-        printf("Task %d: %s\n", i + 1, tasks[i]);
-    }
-    return 0;
-}
+https://www.programiz.com/c-programming/c-arrays
