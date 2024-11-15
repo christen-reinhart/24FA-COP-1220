@@ -67,7 +67,7 @@ for (int i = 1; i <= 10; i++) {
     }
 }
 
-Summary: 2D arrays are particularly useful for grid-like structures where elements are logically organized in rows and columns. Common use cases include:
+Summary: 2D arrays are particularly useful for grid-like structures where elements are logically organized in rows and columns. 
 
 
 
