@@ -14,6 +14,8 @@ b) Indexed Access: Each student’s score can be accessed via an index, making i
 
 c) Efficient Iteration: Arrays allow looping through scores to calculate the total, maximum, minimum, or average efficiently.
 
+Example:
+
 #define NUM_STUDENTS 30
 
 int main() {
@@ -33,6 +35,8 @@ a) Fixed Size: The number of days in a month is constant, making an array suitab
 b) Sequential Storage: Temperatures are recorded in order, so an array is a natural choice.
 
 c) Easy Aggregation: Arrays make it easy to compute averages or find trends like the highest or lowest temperature of the month.
+
+Example:
 
 #define DAYS_IN_MONTH 30
 
@@ -56,6 +60,8 @@ a) Fixed Limit: The maximum number of tasks is predefined.
 b) Random Access: Tasks can be accessed, updated, or deleted by their index.
 
 c) Compact Representation: Arrays provide a compact way to store tasks of similar types (e.g., strings for task names).
+
+Example:
 
 #include <stdio.h>
 #include <string.h>
