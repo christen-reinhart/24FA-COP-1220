@@ -1,3 +1,11 @@
+// #/!/usr/bin/env Program C
+// Script name: Programming C T3 CalculateAve.c
+// Author Name: Christen Reinhart
+// Date of Latest Revision: 11/26/2024
+// Purpose: Determine the average of input numbers
+// Input: Integers
+// Output: Calculated Average
+
 #include <stdio.h>
 #include <stdlib.h> // For malloc and free
 
