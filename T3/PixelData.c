@@ -1,5 +1,5 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C T3 Pixel Data
+// Script name: Programming C T3 PixelData.c
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 11/16/2024
 // Purpose: Store Data
