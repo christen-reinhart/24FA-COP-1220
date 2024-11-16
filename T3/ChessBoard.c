@@ -1,3 +1,11 @@
+// #/!/usr/bin/env Program C
+// Script name: Programming C T3 Chess Board
+// Author Name: Christen Reinhart
+// Date of Latest Revision: 11/16/2024
+// Purpose: Track Chess Pieces
+// Input: Variables
+// Output: Store Information
+
 #include <stdio.h>
 
 int main() {
