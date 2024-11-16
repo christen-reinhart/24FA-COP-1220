@@ -1,3 +1,11 @@
+// #/!/usr/bin/env Program C
+// Script name: Programming C T3 ToDoList.c
+// Author Name: Christen Reinhart
+// Date of Latest Revision: 11/16/2024
+// Purpose: Store Data
+// Input: Information
+// Output: Array/List
+
 #include <stdio.h>
 #include <string.h>
 #define MAX_TASKS 10
