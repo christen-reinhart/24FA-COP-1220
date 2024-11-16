@@ -1,3 +1,11 @@
+// #/!/usr/bin/env Program C
+// Script name: Programming C T3 Average Temp
+// Author Name: Christen Reinhart
+// Date of Latest Revision: 11/16/2024
+// Purpose: Calculate Average Temperature from Input
+// Input: Integers/Numbers
+// Output: Average Temperature
+
 #include <stdio.h>
 
 int main() {
