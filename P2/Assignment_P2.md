@@ -6,28 +6,26 @@
 # Input: Video Games
 # Output: Print Video Games
 
-2. Tracking Daily Temperatures for a Month
+3. Managing a To-Do List of Fixed Size
 
-a) Fixed Size: The number of days in a month is constant, making an array suitable.
-b) Sequential Storage: Temperatures are recorded in order, so an array is a natural choice.
-c) Easy Aggregation: Arrays make it easy to compute averages or find trends like the highest or lowest temperature of the month.
-https://github.com/christen-reinhart/24FA-COP-1220/blob/main/T3/DailyTemp.c
+a) Fixed Limit: The maximum number of tasks is predefined.
+b) Random Access: Their index can access, update, or delete tasks.
+c) Compact Representation: Arrays provide a compact way to store tasks of similar types (e.g., strings for task names).
+https://github.com/christen-reinhart/24FA-COP-1220/blob/main/T3/ToDoList.c
 
 Example:
 #include <stdio.h>
-
+#include <string.h>
+#define MAX_TASKS 10
+#define MAX_TASK_LENGTH 50
 int main() {
-    int temperatures[30];  // Array for daily temperatures
-    double humidity[30];   // Array for daily humidity levels
-    double rainfall[30];   // Array for daily rainfall levels
-// ... (Input weather data for each day)
-// Calculate average temperature
-int sum_temp = 0;
-for (int i = 0; i < 365; i++) {
-    sum_temp += temperatures[i];
+    char tasks[MAX_TASKS][MAX_TASK_LENGTH] = {"Buy groceries", "Call John", /*...*/};
+    for (int i = 0; i < MAX_TASKS && strlen(tasks[i]) > 0; i++) {
+        printf("Task %d: %s\n", i + 1, tasks[i]);
+    }
+    return 0;
 }
-double avg_temp = (double)sum_temp / 365;
-// ... (Similar calculations for humidity and rainfall)
+
 
 
 
