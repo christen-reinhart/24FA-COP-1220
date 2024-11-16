@@ -1,5 +1,5 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C T3 Average Temp
+// Script name: Programming C T3 DailyTemp.c
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 11/16/2024
 // Purpose: Calculate Average Temperature from Input
