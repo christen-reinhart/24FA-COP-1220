@@ -6,25 +6,24 @@
 # Input: Video Games
 # Output: Print Video Games
 
-3. Managing a To-Do List of Fixed Size
+Q2: Find a C program on the web that uses an array. Give a link to the program’s source code and tell what the program does. Copy and paste the code that defines the array and describe what you think the array is used for.
 
-a) Fixed Limit: The maximum number of tasks is predefined.
-b) Random Access: Their index can access, update, or delete tasks.
-c) Compact Representation: Arrays provide a compact way to store tasks of similar types (e.g., strings for task names).
-https://github.com/christen-reinhart/24FA-COP-1220/blob/main/T3/ToDoList.c
+C Arrays - Programiz
+programiz.com
+Source:
+https://www.programiz.com/c-programming/c-arrays
 
-Example:
-#include <stdio.h>
-#include <string.h>
-#define MAX_TASKS 10
-#define MAX_TASK_LENGTH 50
-int main() {
-    char tasks[MAX_TASKS][MAX_TASK_LENGTH] = {"Buy groceries", "Call John", /*...*/};
-    for (int i = 0; i < MAX_TASKS && strlen(tasks[i]) > 0; i++) {
-        printf("Task %d: %s\n", i + 1, tasks[i]);
-    }
-    return 0;
-}
+I found a C program that demonstrates using arrays to calculate the average of four integers. The program is available on Programiz: 
+PROGRAMIZ
+
+Program Overview: This program prompts the user to input four integers, stores them in an array, and then calculates and displays their average.
+
+Array Definition in the Program:
+int num[4];
+
+Purpose of the Array: The num array is defined to hold four integer values entered by the user. Each element of the array corresponds to one of the integers. By storing the integers in an array, the program can efficiently iterate through the elements to compute the sum and, subsequently, the average. This approach simplifies the process of handling multiple related variables and allows for scalable code that can be easily modified to accommodate more numbers if needed.
+https://github.com/christen-reinhart/24FA-COP-1220/blob/main/T3/CalculateAve.c
+
 
 
 
