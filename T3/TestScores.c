@@ -1,5 +1,5 @@
 // #/!/usr/bin/env Program C
-// Script name: Programming C T3 Test Scores
+// Script name: Programming C T3 TestScores.c
 // Author Name: Christen Reinhart
 // Date of Latest Revision: 11/16/2024
 // Purpose: Store Data
