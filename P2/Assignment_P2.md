@@ -4,11 +4,7 @@
 # Date of Latest Revision: 08/30/2024
 # Purpose: Print
 # Input: Video Games
-# Output: Print Video Games
-
-
-
-TEST!!!!!!!!!!!!!!!!!!!!!!!!!
+# Output: Test
 
 
 
